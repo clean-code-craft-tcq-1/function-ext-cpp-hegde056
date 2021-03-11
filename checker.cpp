@@ -22,10 +22,6 @@ void checkAndDisplayEarlyWarnings(float min,float  max,const float  &valueToChec
     {
         cout << " HIGH Warning!!" << endl;
     }
-    else
-    {
-        cout<< " Normal" << endl;
-    }
 
 }
 
